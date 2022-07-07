@@ -1,0 +1,36 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+
+h1 {
+    color:gray; 
+    font-family: Verdana;
+    font-size: 27px
+}
+
+.maindiv {
+    background-color:white; 
+    color:black; 
+    width:400px; 
+    padding:20px; 
+    border-radius:25px; 
+    align: center;
+}
+
+table {
+     margin-left: 40px;
+     margin-right: 40px;
+     border-collapse: separate; 
+     border-spacing: 0 5px;
+}
+
+.td-vert-size {
+    white-space:nowrap;
+    column-span: all;
+}
+
+.result {
+    font-size: 14px
+}
